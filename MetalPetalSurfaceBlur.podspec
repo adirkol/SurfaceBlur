@@ -21,7 +21,5 @@ Pod::Spec.new do |s|
   s.macos.deployment_target = '10.13'
 
   s.source_files = 'SurfaceBlur/**/*'
-  
-  s.dependency 'MetalPetal'
 
 end
