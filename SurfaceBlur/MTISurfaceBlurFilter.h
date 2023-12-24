@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MetalPetal/MetalPetal.h>
+#import <MetalPetal.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
